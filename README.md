@@ -4,6 +4,8 @@
 
 This project showcases an interactive Sales Dashboard built for Superstore data. The dashboard provides insights into sales performance, profitability, and trends across regions, categories, and customer segments.
 
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-8/blob/20cd829ba37dbed9ccc33c0e994ee9b8a588611e/eltask8-1.png)
+
 ## ✅ Tasks Completed
 ### 1. Convert Order Date to Month-Year Format
 
